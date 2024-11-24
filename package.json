@@ -1,6 +1,5 @@
 {
-  "homepage": "https://hyoaru.github.io",
-  "name": "hyoaru.github.io",
+  "name": "portfolio-v2",
   "private": true,
   "version": "0.0.0",
   "type": "module",
